@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05a9cbf7-4d77-4818-8a8e-4980ef305731" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python_Exercicios/ex003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Exercicios/ex004.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Exercicios/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Exercicios/ex001.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Exercicios/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Exercicios/ex002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Scripts/desafio03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Scripts/desafio03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +38,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Font&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.desafio03.executor": "Run",
+    "Python.ex000.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Font"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Users\thami\GitHubRepositorios\CursoEmVideo\CursoEmVideo_Python" />
@@ -97,5 +104,16 @@
       <updated>1740871131897</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
